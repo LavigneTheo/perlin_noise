@@ -1,0 +1,8 @@
+﻿  Perlin2D_V2.cpp
+c:\code\maths\perlin_noise\perlin_noise\src\perlin\perlin2d_v2.cpp(6): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\code\maths\perlin_noise\perlin_noise\src\perlin\perlin2d_v2.cpp(7): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\code\maths\perlin_noise\perlin_noise\src\perlin\perlin2d_v2.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\code\maths\perlin_noise\perlin_noise\src\perlin\perlin2d_v2.cpp(36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\code\maths\perlin_noise\perlin_noise\src\perlin\perlin2d_v2.cpp(136): warning C4305: '*=': truncation from 'double' to 'float'
+c:\code\maths\perlin_noise\perlin_noise\src\perlin\perlin2d_v2.cpp(143): warning C4018: '<': signed/unsigned mismatch
+  perlin_noise.vcxproj -> C:\code\maths\perlin_noise\Debug\perlin_noise.exe
